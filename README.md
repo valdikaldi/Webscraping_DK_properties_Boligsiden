@@ -20,4 +20,4 @@ With this script I was able to gather :
 
 ### Example Data
 
-You can view the example data of the final results in the CSV file located in the example_data folder.
+You can view the example of the tabular data from the final result in the CSV file located in the example_data folder.
