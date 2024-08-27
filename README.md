@@ -1,10 +1,14 @@
 # Webscraping_DK_properties_Boligsiden
 
+![Boligsiden Front page](frontpage.PNG)
+
 ## Description : 
 In this project, I developed a web scraping bot that systematically scans the entire [www.boligsiden.dk](https://www.boligsiden.dk/), gathering detailed data on property characteristics and historic transaction prices for the Danish housing market. 
 
 ## The bot : 
 The website offers a "hidden" API - making it easy to extract the data. However, the site only offers 500 pages where each pages gives up 20 properties. In addition, they will only allow you to get data on a yearly period of 6 year basis. 
+
+![The "hidden" API](hidden_api.PNG)
 
 As an example, say you search for historical data on sold properties in Copenhagen municipality (in danish: København kommune) then you will see that there are 70.382 sold properties (based on data taken on 27.08.2024) yet that would mean the number of pages should be 3519,1 (70382/20 per page). However, they cap it at 500 pages. To overcome this challenge, I first run a simple script to gather all information on the total properties sold given a set of parameters. The idea here is to simply thin the number of total properties per request so that each request to the data actually fits the quota i.e. 10.000 properties
 (20 properties per page * 500 pages). This way, I am able to gather information on properties across the entire website. 
