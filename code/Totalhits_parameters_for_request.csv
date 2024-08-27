@@ -1,0 +1,705 @@
+,Municipality,Property_type,Year,Price_min,Price_max,Size_min,Size_max,totalhits,number_of_pages
+0,København,villa,2023,nothing,nothing,nothing,nothing,414,21
+1,København,villa,2022,nothing,nothing,nothing,nothing,426,22
+2,København,villa,2021,nothing,nothing,nothing,nothing,676,34
+3,København,villa,2020,nothing,nothing,nothing,nothing,750,38
+4,København,villa,2019,nothing,nothing,nothing,nothing,620,31
+5,København,villa,2018,nothing,nothing,nothing,nothing,664,34
+6,København,villa,2017,nothing,nothing,nothing,nothing,745,38
+7,København,villa,2016,nothing,nothing,nothing,nothing,726,37
+8,København,villa,2015,nothing,nothing,nothing,nothing,726,37
+9,København,villa,2014,nothing,nothing,nothing,nothing,717,36
+10,København,villa,2013,nothing,nothing,nothing,nothing,676,34
+11,København,condo,2023,nothing,nothing,nothing,nothing,4589,230
+12,København,condo,2022,nothing,nothing,nothing,nothing,5791,290
+13,København,condo,2021,nothing,nothing,nothing,nothing,8690,435
+14,København,condo,2020,nothing,nothing,nothing,nothing,8253,413
+15,København,condo,2019,nothing,nothing,nothing,nothing,7511,376
+16,København,condo,2018,nothing,nothing,nothing,nothing,7996,400
+17,København,condo,2017,nothing,nothing,nothing,nothing,9445,473
+18,København,condo,2016,nothing,nothing,nothing,nothing,8864,444
+19,København,condo,2015,nothing,nothing,nothing,nothing,9695,485
+20,København,condo,2014,nothing,nothing,nothing,nothing,8158,408
+21,København,condo,2013,nothing,nothing,nothing,nothing,6501,326
+22,København,terraced house,nothing,nothing,nothing,nothing,nothing,4199,210
+23,Aarhus,villa,2023,nothing,nothing,nothing,nothing,1049,53
+24,Aarhus,villa,2022,nothing,nothing,nothing,nothing,1598,80
+25,Aarhus,villa,2021,nothing,nothing,nothing,nothing,2242,113
+26,Aarhus,villa,2020,nothing,nothing,nothing,nothing,2370,119
+27,Aarhus,villa,2019,nothing,nothing,nothing,nothing,2091,105
+28,Aarhus,villa,2018,nothing,nothing,nothing,nothing,2229,112
+29,Aarhus,villa,2017,nothing,nothing,nothing,nothing,2238,112
+30,Aarhus,villa,2016,nothing,nothing,nothing,nothing,1992,100
+31,Aarhus,villa,2015,nothing,nothing,nothing,nothing,2197,110
+32,Aarhus,villa,2014,nothing,nothing,nothing,nothing,1897,95
+33,Aarhus,villa,2013,nothing,nothing,nothing,nothing,1678,84
+34,Aarhus,condo,2023,nothing,nothing,nothing,nothing,1179,59
+35,Aarhus,condo,2022,nothing,nothing,nothing,nothing,1738,87
+36,Aarhus,condo,2021,nothing,nothing,nothing,nothing,2875,144
+37,Aarhus,condo,2020,nothing,nothing,nothing,nothing,2712,136
+38,Aarhus,condo,2019,nothing,nothing,nothing,nothing,2824,142
+39,Aarhus,condo,2018,nothing,nothing,nothing,nothing,2651,133
+40,Aarhus,condo,2017,nothing,nothing,nothing,nothing,3057,153
+41,Aarhus,condo,2016,nothing,nothing,nothing,nothing,3083,155
+42,Aarhus,condo,2015,nothing,nothing,nothing,nothing,2992,150
+43,Aarhus,condo,2014,nothing,nothing,nothing,nothing,2415,121
+44,Aarhus,condo,2013,nothing,nothing,nothing,nothing,2078,104
+45,Aarhus,terraced house,nothing,nothing,nothing,nothing,nothing,8569,429
+46,Aalborg,villa,2023,nothing,nothing,nothing,nothing,1237,62
+47,Aalborg,villa,2022,nothing,nothing,nothing,nothing,1747,88
+48,Aalborg,villa,2021,nothing,nothing,nothing,nothing,2620,131
+49,Aalborg,villa,2020,nothing,nothing,nothing,nothing,2208,111
+50,Aalborg,villa,2019,nothing,nothing,nothing,nothing,1968,99
+51,Aalborg,villa,2018,nothing,nothing,nothing,nothing,1959,98
+52,Aalborg,villa,2017,nothing,nothing,nothing,nothing,2183,110
+53,Aalborg,villa,2016,nothing,nothing,nothing,nothing,1831,92
+54,Aalborg,villa,2015,nothing,nothing,nothing,nothing,1920,96
+55,Aalborg,villa,2014,nothing,nothing,nothing,nothing,1615,81
+56,Aalborg,villa,2013,nothing,nothing,nothing,nothing,1526,77
+57,Aalborg,condo,2023,nothing,nothing,nothing,nothing,545,28
+58,Aalborg,condo,2022,nothing,nothing,nothing,nothing,836,42
+59,Aalborg,condo,2021,nothing,nothing,nothing,nothing,1261,64
+60,Aalborg,condo,2020,nothing,nothing,nothing,nothing,991,50
+61,Aalborg,condo,2019,nothing,nothing,nothing,nothing,1036,52
+62,Aalborg,condo,2018,nothing,nothing,nothing,nothing,1130,57
+63,Aalborg,condo,2017,nothing,nothing,nothing,nothing,1605,81
+64,Aalborg,condo,2016,nothing,nothing,nothing,nothing,1492,75
+65,Aalborg,condo,2015,nothing,nothing,nothing,nothing,1387,70
+66,Aalborg,condo,2014,nothing,nothing,nothing,nothing,1103,56
+67,Aalborg,condo,2013,nothing,nothing,nothing,nothing,1143,58
+68,Aalborg,terraced house,nothing,nothing,nothing,nothing,nothing,3005,151
+69,Odense,villa,2023,nothing,nothing,nothing,nothing,943,48
+70,Odense,villa,2022,nothing,nothing,nothing,nothing,1329,67
+71,Odense,villa,2021,nothing,nothing,nothing,nothing,1792,90
+72,Odense,villa,2020,nothing,nothing,nothing,nothing,1746,88
+73,Odense,villa,2019,nothing,nothing,nothing,nothing,1597,80
+74,Odense,villa,2018,nothing,nothing,nothing,nothing,1575,79
+75,Odense,villa,2017,nothing,nothing,nothing,nothing,1597,80
+76,Odense,villa,2016,nothing,nothing,nothing,nothing,1408,71
+77,Odense,villa,2015,nothing,nothing,nothing,nothing,1442,73
+78,Odense,villa,2014,nothing,nothing,nothing,nothing,1252,63
+79,Odense,villa,2013,nothing,nothing,nothing,nothing,1084,55
+80,Odense,condo,nothing,nothing,nothing,nothing,nothing,9495,475
+81,Odense,terraced house,nothing,nothing,nothing,nothing,nothing,6489,325
+82,Vejle,villa,2023,nothing,nothing,nothing,nothing,964,49
+83,Vejle,villa,2022,nothing,nothing,nothing,nothing,1485,75
+84,Vejle,villa,2021,nothing,nothing,nothing,nothing,2040,102
+85,Vejle,villa,2020,nothing,nothing,nothing,nothing,1949,98
+86,Vejle,villa,2019,nothing,nothing,nothing,nothing,1593,80
+87,Vejle,villa,2018,nothing,nothing,nothing,nothing,1656,83
+88,Vejle,villa,2017,nothing,nothing,nothing,nothing,1531,77
+89,Vejle,villa,2016,nothing,nothing,nothing,nothing,1355,68
+90,Vejle,villa,2015,nothing,nothing,nothing,nothing,1282,65
+91,Vejle,villa,2014,nothing,nothing,nothing,nothing,1033,52
+92,Vejle,villa,2013,nothing,nothing,nothing,nothing,998,50
+93,Vejle,condo,nothing,nothing,nothing,nothing,nothing,2702,136
+94,Vejle,terraced house,nothing,nothing,nothing,nothing,nothing,1260,63
+95,Esbjerg,villa,2023,nothing,nothing,nothing,nothing,778,39
+96,Esbjerg,villa,2022,nothing,nothing,nothing,nothing,1201,61
+97,Esbjerg,villa,2021,nothing,nothing,nothing,nothing,1694,85
+98,Esbjerg,villa,2020,nothing,nothing,nothing,nothing,1562,79
+99,Esbjerg,villa,2019,nothing,nothing,nothing,nothing,1476,74
+100,Esbjerg,villa,2018,nothing,nothing,nothing,nothing,1447,73
+101,Esbjerg,villa,2017,nothing,nothing,nothing,nothing,1407,71
+102,Esbjerg,villa,2016,nothing,nothing,nothing,nothing,1255,63
+103,Esbjerg,villa,2015,nothing,nothing,nothing,nothing,1234,62
+104,Esbjerg,villa,2014,nothing,nothing,nothing,nothing,1068,54
+105,Esbjerg,villa,2013,nothing,nothing,nothing,nothing,973,49
+106,Esbjerg,condo,nothing,nothing,nothing,nothing,nothing,3546,178
+107,Esbjerg,terraced house,nothing,nothing,nothing,nothing,nothing,1140,57
+108,Frederiksberg,villa,nothing,nothing,nothing,nothing,nothing,772,39
+109,Frederiksberg,condo,2023,nothing,nothing,nothing,nothing,879,44
+110,Frederiksberg,condo,2022,nothing,nothing,nothing,nothing,1111,56
+111,Frederiksberg,condo,2021,nothing,nothing,nothing,nothing,1638,82
+112,Frederiksberg,condo,2020,nothing,nothing,nothing,nothing,1760,88
+113,Frederiksberg,condo,2019,nothing,nothing,nothing,nothing,1569,79
+114,Frederiksberg,condo,2018,nothing,nothing,nothing,nothing,1653,83
+115,Frederiksberg,condo,2017,nothing,nothing,nothing,nothing,1713,86
+116,Frederiksberg,condo,2016,nothing,nothing,nothing,nothing,1659,83
+117,Frederiksberg,condo,2015,nothing,nothing,nothing,nothing,1723,87
+118,Frederiksberg,condo,2014,nothing,nothing,nothing,nothing,1591,80
+119,Frederiksberg,condo,2013,nothing,nothing,nothing,nothing,1445,73
+120,Frederiksberg,terraced house,nothing,nothing,nothing,nothing,nothing,367,19
+121,Randers,villa,2023,nothing,nothing,nothing,nothing,704,36
+122,Randers,villa,2022,nothing,nothing,nothing,nothing,1140,57
+123,Randers,villa,2021,nothing,nothing,nothing,nothing,1574,79
+124,Randers,villa,2020,nothing,nothing,nothing,nothing,1407,71
+125,Randers,villa,2019,nothing,nothing,nothing,nothing,1197,60
+126,Randers,villa,2018,nothing,nothing,nothing,nothing,1165,59
+127,Randers,villa,2017,nothing,nothing,nothing,nothing,1141,58
+128,Randers,villa,2016,nothing,nothing,nothing,nothing,1047,53
+129,Randers,villa,2015,nothing,nothing,nothing,nothing,972,49
+130,Randers,villa,2014,nothing,nothing,nothing,nothing,858,43
+131,Randers,villa,2013,nothing,nothing,nothing,nothing,781,40
+132,Randers,condo,nothing,nothing,nothing,nothing,nothing,5283,265
+133,Randers,terraced house,nothing,nothing,nothing,nothing,nothing,1314,66
+134,Silkeborg,villa,2023,nothing,nothing,nothing,nothing,742,38
+135,Silkeborg,villa,2022,nothing,nothing,nothing,nothing,1156,58
+136,Silkeborg,villa,2021,nothing,nothing,nothing,nothing,1867,94
+137,Silkeborg,villa,2020,nothing,nothing,nothing,nothing,1581,80
+138,Silkeborg,villa,2019,nothing,nothing,nothing,nothing,1410,71
+139,Silkeborg,villa,2018,nothing,nothing,nothing,nothing,1354,68
+140,Silkeborg,villa,2017,nothing,nothing,nothing,nothing,1275,64
+141,Silkeborg,villa,2016,nothing,nothing,nothing,nothing,1083,55
+142,Silkeborg,villa,2015,nothing,nothing,nothing,nothing,1063,54
+143,Silkeborg,villa,2014,nothing,nothing,nothing,nothing,852,43
+144,Silkeborg,villa,2013,nothing,nothing,nothing,nothing,810,41
+145,Silkeborg,condo,nothing,nothing,nothing,nothing,nothing,2163,109
+146,Silkeborg,terraced house,nothing,nothing,nothing,nothing,nothing,1541,78
+147,Viborg,villa,2023,nothing,nothing,nothing,nothing,750,38
+148,Viborg,villa,2022,nothing,nothing,nothing,nothing,1194,60
+149,Viborg,villa,2021,nothing,nothing,nothing,nothing,1666,84
+150,Viborg,villa,2020,nothing,nothing,nothing,nothing,1417,71
+151,Viborg,villa,2019,nothing,nothing,nothing,nothing,1274,64
+152,Viborg,villa,2018,nothing,nothing,nothing,nothing,1301,66
+153,Viborg,villa,2017,nothing,nothing,nothing,nothing,1316,66
+154,Viborg,villa,2016,nothing,nothing,nothing,nothing,1105,56
+155,Viborg,villa,2015,nothing,nothing,nothing,nothing,1149,58
+156,Viborg,villa,2014,nothing,nothing,nothing,nothing,947,48
+157,Viborg,villa,2013,nothing,nothing,nothing,nothing,852,43
+158,Viborg,condo,nothing,nothing,nothing,nothing,nothing,1972,99
+159,Viborg,terraced house,nothing,nothing,nothing,nothing,nothing,1373,69
+160,Horsens,villa,2023,nothing,nothing,nothing,nothing,702,36
+161,Horsens,villa,2022,nothing,nothing,nothing,nothing,1142,58
+162,Horsens,villa,2021,nothing,nothing,nothing,nothing,1716,86
+163,Horsens,villa,2020,nothing,nothing,nothing,nothing,1462,74
+164,Horsens,villa,2019,nothing,nothing,nothing,nothing,1294,65
+165,Horsens,villa,2018,nothing,nothing,nothing,nothing,1313,66
+166,Horsens,villa,2017,nothing,nothing,nothing,nothing,1258,63
+167,Horsens,villa,2016,nothing,nothing,nothing,nothing,1065,54
+168,Horsens,villa,2015,nothing,nothing,nothing,nothing,1058,53
+169,Horsens,villa,2014,nothing,nothing,nothing,nothing,848,43
+170,Horsens,villa,2013,nothing,nothing,nothing,nothing,796,40
+171,Horsens,condo,nothing,nothing,nothing,nothing,nothing,3473,174
+172,Horsens,terraced house,nothing,nothing,nothing,nothing,nothing,1142,58
+173,Kolding,villa,2023,nothing,nothing,nothing,nothing,689,35
+174,Kolding,villa,2022,nothing,nothing,nothing,nothing,995,50
+175,Kolding,villa,2021,nothing,nothing,nothing,nothing,1439,72
+176,Kolding,villa,2020,nothing,nothing,nothing,nothing,1208,61
+177,Kolding,villa,2019,nothing,nothing,nothing,nothing,1195,60
+178,Kolding,villa,2018,nothing,nothing,nothing,nothing,1253,63
+179,Kolding,villa,2017,nothing,nothing,nothing,nothing,1156,58
+180,Kolding,villa,2016,nothing,nothing,nothing,nothing,946,48
+181,Kolding,villa,2015,nothing,nothing,nothing,nothing,935,47
+182,Kolding,villa,2014,nothing,nothing,nothing,nothing,802,41
+183,Kolding,villa,2013,nothing,nothing,nothing,nothing,729,37
+184,Kolding,condo,nothing,nothing,nothing,nothing,nothing,2420,121
+185,Kolding,terraced house,nothing,nothing,nothing,nothing,nothing,1961,99
+186,Roskilde,villa,2023,nothing,nothing,nothing,nothing,512,26
+187,Roskilde,villa,2022,nothing,nothing,nothing,nothing,652,33
+188,Roskilde,villa,2021,nothing,nothing,nothing,nothing,1028,52
+189,Roskilde,villa,2020,nothing,nothing,nothing,nothing,1006,51
+190,Roskilde,villa,2019,nothing,nothing,nothing,nothing,877,44
+191,Roskilde,villa,2018,nothing,nothing,nothing,nothing,887,45
+192,Roskilde,villa,2017,nothing,nothing,nothing,nothing,885,45
+193,Roskilde,villa,2016,nothing,nothing,nothing,nothing,838,42
+194,Roskilde,villa,2015,nothing,nothing,nothing,nothing,908,46
+195,Roskilde,villa,2014,nothing,nothing,nothing,nothing,739,37
+196,Roskilde,villa,2013,nothing,nothing,nothing,nothing,687,35
+197,Roskilde,condo,nothing,nothing,nothing,nothing,nothing,3802,191
+198,Roskilde,terraced house,nothing,nothing,nothing,nothing,nothing,2439,122
+199,Herning,villa,2023,nothing,nothing,nothing,nothing,623,32
+200,Herning,villa,2022,nothing,nothing,nothing,nothing,1066,54
+201,Herning,villa,2021,nothing,nothing,nothing,nothing,1433,72
+202,Herning,villa,2020,nothing,nothing,nothing,nothing,1269,64
+203,Herning,villa,2019,nothing,nothing,nothing,nothing,1087,55
+204,Herning,villa,2018,nothing,nothing,nothing,nothing,1021,52
+205,Herning,villa,2017,nothing,nothing,nothing,nothing,1063,54
+206,Herning,villa,2016,nothing,nothing,nothing,nothing,941,48
+207,Herning,villa,2015,nothing,nothing,nothing,nothing,1060,53
+208,Herning,villa,2014,nothing,nothing,nothing,nothing,840,42
+209,Herning,villa,2013,nothing,nothing,nothing,nothing,764,39
+210,Herning,condo,nothing,nothing,nothing,nothing,nothing,2827,142
+211,Herning,terraced house,nothing,nothing,nothing,nothing,nothing,1375,69
+212,Næstved,villa,2023,nothing,nothing,nothing,nothing,713,36
+213,Næstved,villa,2022,nothing,nothing,nothing,nothing,997,50
+214,Næstved,villa,2021,nothing,nothing,nothing,nothing,1423,72
+215,Næstved,villa,2020,nothing,nothing,nothing,nothing,1285,65
+216,Næstved,villa,2019,nothing,nothing,nothing,nothing,1164,59
+217,Næstved,villa,2018,nothing,nothing,nothing,nothing,1131,57
+218,Næstved,villa,2017,nothing,nothing,nothing,nothing,1062,54
+219,Næstved,villa,2016,nothing,nothing,nothing,nothing,916,46
+220,Næstved,villa,2015,nothing,nothing,nothing,nothing,897,45
+221,Næstved,villa,2014,nothing,nothing,nothing,nothing,678,34
+222,Næstved,villa,2013,nothing,nothing,nothing,nothing,625,32
+223,Næstved,condo,nothing,nothing,nothing,nothing,nothing,2499,125
+224,Næstved,terraced house,nothing,nothing,nothing,nothing,nothing,1887,95
+225,Slagelse,villa,2023,nothing,nothing,nothing,nothing,547,28
+226,Slagelse,villa,2022,nothing,nothing,nothing,nothing,778,39
+227,Slagelse,villa,2021,nothing,nothing,nothing,nothing,1162,59
+228,Slagelse,villa,2020,nothing,nothing,nothing,nothing,1046,53
+229,Slagelse,villa,2019,nothing,nothing,nothing,nothing,889,45
+230,Slagelse,villa,2018,nothing,nothing,nothing,nothing,795,40
+231,Slagelse,villa,2017,nothing,nothing,nothing,nothing,775,39
+232,Slagelse,villa,2016,nothing,nothing,nothing,nothing,703,36
+233,Slagelse,villa,2015,nothing,nothing,nothing,nothing,687,35
+234,Slagelse,villa,2014,nothing,nothing,nothing,nothing,562,29
+235,Slagelse,villa,2013,nothing,nothing,nothing,nothing,512,26
+236,Slagelse,condo,nothing,nothing,nothing,nothing,nothing,2893,145
+237,Slagelse,terraced house,nothing,nothing,nothing,nothing,nothing,1908,96
+238,Gentofte,villa,nothing,nothing,nothing,nothing,nothing,8089,405
+239,Gentofte,condo,nothing,nothing,nothing,nothing,nothing,6950,348
+240,Gentofte,terraced house,nothing,nothing,nothing,nothing,nothing,1408,71
+241,Sønderborg,villa,2023,nothing,nothing,nothing,nothing,587,30
+242,Sønderborg,villa,2022,nothing,nothing,nothing,nothing,1040,52
+243,Sønderborg,villa,2021,nothing,nothing,nothing,nothing,1169,59
+244,Sønderborg,villa,2020,nothing,nothing,nothing,nothing,1000,50
+245,Sønderborg,villa,2019,nothing,nothing,nothing,nothing,813,41
+246,Sønderborg,villa,2018,nothing,nothing,nothing,nothing,804,41
+247,Sønderborg,villa,2017,nothing,nothing,nothing,nothing,794,40
+248,Sønderborg,villa,2016,nothing,nothing,nothing,nothing,688,35
+249,Sønderborg,villa,2015,nothing,nothing,nothing,nothing,693,35
+250,Sønderborg,villa,2014,nothing,nothing,nothing,nothing,560,28
+251,Sønderborg,villa,2013,nothing,nothing,nothing,nothing,553,28
+252,Sønderborg,condo,nothing,nothing,nothing,nothing,nothing,1712,86
+253,Sønderborg,terraced house,nothing,nothing,nothing,nothing,nothing,1048,53
+254,Holbæk,villa,2023,nothing,nothing,nothing,nothing,574,29
+255,Holbæk,villa,2022,nothing,nothing,nothing,nothing,829,42
+256,Holbæk,villa,2021,nothing,nothing,nothing,nothing,1311,66
+257,Holbæk,villa,2020,nothing,nothing,nothing,nothing,1108,56
+258,Holbæk,villa,2019,nothing,nothing,nothing,nothing,1007,51
+259,Holbæk,villa,2018,nothing,nothing,nothing,nothing,1011,51
+260,Holbæk,villa,2017,nothing,nothing,nothing,nothing,920,46
+261,Holbæk,villa,2016,nothing,nothing,nothing,nothing,794,40
+262,Holbæk,villa,2015,nothing,nothing,nothing,nothing,754,38
+263,Holbæk,villa,2014,nothing,nothing,nothing,nothing,616,31
+264,Holbæk,villa,2013,nothing,nothing,nothing,nothing,544,28
+265,Holbæk,condo,nothing,nothing,nothing,nothing,nothing,1150,58
+266,Holbæk,terraced house,nothing,nothing,nothing,nothing,nothing,1568,79
+267,Gladsaxe,villa,nothing,nothing,nothing,nothing,nothing,5120,256
+268,Gladsaxe,condo,nothing,nothing,nothing,nothing,nothing,3804,191
+269,Gladsaxe,terraced house,nothing,nothing,nothing,nothing,nothing,2288,115
+270,Skanderborg,villa,2023,nothing,nothing,nothing,nothing,455,23
+271,Skanderborg,villa,2022,nothing,nothing,nothing,nothing,681,35
+272,Skanderborg,villa,2021,nothing,nothing,nothing,nothing,1061,54
+273,Skanderborg,villa,2020,nothing,nothing,nothing,nothing,1027,52
+274,Skanderborg,villa,2019,nothing,nothing,nothing,nothing,978,49
+275,Skanderborg,villa,2018,nothing,nothing,nothing,nothing,943,48
+276,Skanderborg,villa,2017,nothing,nothing,nothing,nothing,905,46
+277,Skanderborg,villa,2016,nothing,nothing,nothing,nothing,913,46
+278,Skanderborg,villa,2015,nothing,nothing,nothing,nothing,862,44
+279,Skanderborg,villa,2014,nothing,nothing,nothing,nothing,644,33
+280,Skanderborg,villa,2013,nothing,nothing,nothing,nothing,562,29
+281,Skanderborg,condo,nothing,nothing,nothing,nothing,nothing,1007,51
+282,Skanderborg,terraced house,nothing,nothing,nothing,nothing,nothing,1906,96
+283,Hjørring,villa,2023,nothing,nothing,nothing,nothing,634,32
+284,Hjørring,villa,2022,nothing,nothing,nothing,nothing,976,49
+285,Hjørring,villa,2021,nothing,nothing,nothing,nothing,1129,57
+286,Hjørring,villa,2020,nothing,nothing,nothing,nothing,1031,52
+287,Hjørring,villa,2019,nothing,nothing,nothing,nothing,942,48
+288,Hjørring,villa,2018,nothing,nothing,nothing,nothing,917,46
+289,Hjørring,villa,2017,nothing,nothing,nothing,nothing,878,44
+290,Hjørring,villa,2016,nothing,nothing,nothing,nothing,918,46
+291,Hjørring,villa,2015,nothing,nothing,nothing,nothing,861,44
+292,Hjørring,villa,2014,nothing,nothing,nothing,nothing,756,38
+293,Hjørring,villa,2013,nothing,nothing,nothing,nothing,679,34
+294,Hjørring,condo,nothing,nothing,nothing,nothing,nothing,1457,73
+295,Hjørring,terraced house,nothing,nothing,nothing,nothing,nothing,871,44
+296,Helsingør,villa,nothing,nothing,nothing,nothing,nothing,7543,378
+297,Helsingør,condo,nothing,nothing,nothing,nothing,nothing,3722,187
+298,Helsingør,terraced house,nothing,nothing,nothing,nothing,nothing,1856,93
+299,Køge,villa,nothing,nothing,nothing,nothing,nothing,9358,468
+300,Køge,condo,nothing,nothing,nothing,nothing,nothing,364,19
+301,Køge,terraced house,nothing,nothing,nothing,nothing,nothing,1379,69
+302,Guldborgsund,villa,2023,nothing,nothing,nothing,nothing,614,31
+303,Guldborgsund,villa,2022,nothing,nothing,nothing,nothing,941,48
+304,Guldborgsund,villa,2021,nothing,nothing,nothing,nothing,1267,64
+305,Guldborgsund,villa,2020,nothing,nothing,nothing,nothing,988,50
+306,Guldborgsund,villa,2019,nothing,nothing,nothing,nothing,867,44
+307,Guldborgsund,villa,2018,nothing,nothing,nothing,nothing,882,45
+308,Guldborgsund,villa,2017,nothing,nothing,nothing,nothing,867,44
+309,Guldborgsund,villa,2016,nothing,nothing,nothing,nothing,738,37
+310,Guldborgsund,villa,2015,nothing,nothing,nothing,nothing,699,35
+311,Guldborgsund,villa,2014,nothing,nothing,nothing,nothing,651,33
+312,Guldborgsund,villa,2013,nothing,nothing,nothing,nothing,610,31
+313,Guldborgsund,condo,nothing,nothing,nothing,nothing,nothing,1585,80
+314,Guldborgsund,terraced house,nothing,nothing,nothing,nothing,nothing,1726,87
+315,Svendborg,villa,2023,nothing,nothing,nothing,nothing,493,25
+316,Svendborg,villa,2022,nothing,nothing,nothing,nothing,731,37
+317,Svendborg,villa,2021,nothing,nothing,nothing,nothing,1008,51
+318,Svendborg,villa,2020,nothing,nothing,nothing,nothing,957,48
+319,Svendborg,villa,2019,nothing,nothing,nothing,nothing,828,42
+320,Svendborg,villa,2018,nothing,nothing,nothing,nothing,827,42
+321,Svendborg,villa,2017,nothing,nothing,nothing,nothing,777,39
+322,Svendborg,villa,2016,nothing,nothing,nothing,nothing,598,30
+323,Svendborg,villa,2015,nothing,nothing,nothing,nothing,629,32
+324,Svendborg,villa,2014,nothing,nothing,nothing,nothing,532,27
+325,Svendborg,villa,2013,nothing,nothing,nothing,nothing,485,25
+326,Svendborg,condo,nothing,nothing,nothing,nothing,nothing,984,50
+327,Svendborg,terraced house,nothing,nothing,nothing,nothing,nothing,1175,59
+328,Aabenraa,villa,2023,nothing,nothing,nothing,nothing,582,30
+329,Aabenraa,villa,2022,nothing,nothing,nothing,nothing,918,46
+330,Aabenraa,villa,2021,nothing,nothing,nothing,nothing,1191,60
+331,Aabenraa,villa,2020,nothing,nothing,nothing,nothing,862,44
+332,Aabenraa,villa,2019,nothing,nothing,nothing,nothing,805,41
+333,Aabenraa,villa,2018,nothing,nothing,nothing,nothing,776,39
+334,Aabenraa,villa,2017,nothing,nothing,nothing,nothing,756,38
+335,Aabenraa,villa,2016,nothing,nothing,nothing,nothing,690,35
+336,Aabenraa,villa,2015,nothing,nothing,nothing,nothing,630,32
+337,Aabenraa,villa,2014,nothing,nothing,nothing,nothing,547,28
+338,Aabenraa,villa,2013,nothing,nothing,nothing,nothing,523,27
+339,Aabenraa,condo,nothing,nothing,nothing,nothing,nothing,1443,73
+340,Aabenraa,terraced house,nothing,nothing,nothing,nothing,nothing,483,25
+341,Holstebro,villa,2023,nothing,nothing,nothing,nothing,413,21
+342,Holstebro,villa,2022,nothing,nothing,nothing,nothing,724,37
+343,Holstebro,villa,2021,nothing,nothing,nothing,nothing,936,47
+344,Holstebro,villa,2020,nothing,nothing,nothing,nothing,850,43
+345,Holstebro,villa,2019,nothing,nothing,nothing,nothing,750,38
+346,Holstebro,villa,2018,nothing,nothing,nothing,nothing,710,36
+347,Holstebro,villa,2017,nothing,nothing,nothing,nothing,717,36
+348,Holstebro,villa,2016,nothing,nothing,nothing,nothing,692,35
+349,Holstebro,villa,2015,nothing,nothing,nothing,nothing,631,32
+350,Holstebro,villa,2014,nothing,nothing,nothing,nothing,552,28
+351,Holstebro,villa,2013,nothing,nothing,nothing,nothing,589,30
+352,Holstebro,condo,nothing,nothing,nothing,nothing,nothing,1686,85
+353,Holstebro,terraced house,nothing,nothing,nothing,nothing,nothing,2143,108
+354,Frederikshavn,villa,2023,nothing,nothing,nothing,nothing,589,30
+355,Frederikshavn,villa,2022,nothing,nothing,nothing,nothing,854,43
+356,Frederikshavn,villa,2021,nothing,nothing,nothing,nothing,1138,57
+357,Frederikshavn,villa,2020,nothing,nothing,nothing,nothing,995,50
+358,Frederikshavn,villa,2019,nothing,nothing,nothing,nothing,831,42
+359,Frederikshavn,villa,2018,nothing,nothing,nothing,nothing,884,45
+360,Frederikshavn,villa,2017,nothing,nothing,nothing,nothing,886,45
+361,Frederikshavn,villa,2016,nothing,nothing,nothing,nothing,755,38
+362,Frederikshavn,villa,2015,nothing,nothing,nothing,nothing,745,38
+363,Frederikshavn,villa,2014,nothing,nothing,nothing,nothing,642,33
+364,Frederikshavn,villa,2013,nothing,nothing,nothing,nothing,645,33
+365,Frederikshavn,condo,nothing,nothing,nothing,nothing,nothing,1507,76
+366,Frederikshavn,terraced house,nothing,nothing,nothing,nothing,nothing,654,33
+367,Lyngby-Taarbæk,villa,nothing,nothing,nothing,nothing,nothing,4785,240
+368,Lyngby-Taarbæk,condo,nothing,nothing,nothing,nothing,nothing,2312,116
+369,Lyngby-Taarbæk,terraced house,nothing,nothing,nothing,nothing,nothing,2590,130
+370,Rudersdal,villa,nothing,nothing,nothing,nothing,nothing,8183,410
+371,Rudersdal,condo,nothing,nothing,nothing,nothing,nothing,3112,156
+372,Rudersdal,terraced house,nothing,nothing,nothing,nothing,nothing,1832,92
+373,Ringkøbing-Skjern,villa,2023,nothing,nothing,nothing,nothing,616,31
+374,Ringkøbing-Skjern,villa,2022,nothing,nothing,nothing,nothing,923,47
+375,Ringkøbing-Skjern,villa,2021,nothing,nothing,nothing,nothing,1046,53
+376,Ringkøbing-Skjern,villa,2020,nothing,nothing,nothing,nothing,958,48
+377,Ringkøbing-Skjern,villa,2019,nothing,nothing,nothing,nothing,852,43
+378,Ringkøbing-Skjern,villa,2018,nothing,nothing,nothing,nothing,849,43
+379,Ringkøbing-Skjern,villa,2017,nothing,nothing,nothing,nothing,791,40
+380,Ringkøbing-Skjern,villa,2016,nothing,nothing,nothing,nothing,740,37
+381,Ringkøbing-Skjern,villa,2015,nothing,nothing,nothing,nothing,750,38
+382,Ringkøbing-Skjern,villa,2014,nothing,nothing,nothing,nothing,636,32
+383,Ringkøbing-Skjern,villa,2013,nothing,nothing,nothing,nothing,586,30
+384,Ringkøbing-Skjern,condo,nothing,nothing,nothing,nothing,nothing,758,38
+385,Ringkøbing-Skjern,terraced house,nothing,nothing,nothing,nothing,nothing,922,47
+386,Haderslev,villa,2023,nothing,nothing,nothing,nothing,480,24
+387,Haderslev,villa,2022,nothing,nothing,nothing,nothing,675,34
+388,Haderslev,villa,2021,nothing,nothing,nothing,nothing,914,46
+389,Haderslev,villa,2020,nothing,nothing,nothing,nothing,834,42
+390,Haderslev,villa,2019,nothing,nothing,nothing,nothing,693,35
+391,Haderslev,villa,2018,nothing,nothing,nothing,nothing,667,34
+392,Haderslev,villa,2017,nothing,nothing,nothing,nothing,649,33
+393,Haderslev,villa,2016,nothing,nothing,nothing,nothing,608,31
+394,Haderslev,villa,2015,nothing,nothing,nothing,nothing,569,29
+395,Haderslev,villa,2014,nothing,nothing,nothing,nothing,456,23
+396,Haderslev,villa,2013,nothing,nothing,nothing,nothing,464,24
+397,Haderslev,condo,nothing,nothing,nothing,nothing,nothing,1189,60
+398,Haderslev,terraced house,nothing,nothing,nothing,nothing,nothing,699,35
+399,Høje-Taastrup,villa,nothing,nothing,nothing,nothing,nothing,4309,216
+400,Høje-Taastrup,condo,nothing,nothing,nothing,nothing,nothing,3257,163
+401,Høje-Taastrup,terraced house,nothing,nothing,nothing,nothing,nothing,2282,115
+402,Hillerød,villa,nothing,nothing,nothing,nothing,nothing,7353,368
+403,Hillerød,condo,nothing,nothing,nothing,nothing,nothing,1244,63
+404,Hillerød,terraced house,nothing,nothing,nothing,nothing,nothing,1663,84
+405,Hvidovre,villa,nothing,nothing,nothing,nothing,nothing,5286,265
+406,Hvidovre,condo,nothing,nothing,nothing,nothing,nothing,1572,79
+407,Hvidovre,terraced house,nothing,nothing,nothing,nothing,nothing,1053,53
+408,Faaborg-Midtfyn,villa,2023,nothing,nothing,nothing,nothing,532,27
+409,Faaborg-Midtfyn,villa,2022,nothing,nothing,nothing,nothing,833,42
+410,Faaborg-Midtfyn,villa,2021,nothing,nothing,nothing,nothing,1160,58
+411,Faaborg-Midtfyn,villa,2020,nothing,nothing,nothing,nothing,969,49
+412,Faaborg-Midtfyn,villa,2019,nothing,nothing,nothing,nothing,883,45
+413,Faaborg-Midtfyn,villa,2018,nothing,nothing,nothing,nothing,810,41
+414,Faaborg-Midtfyn,villa,2017,nothing,nothing,nothing,nothing,772,39
+415,Faaborg-Midtfyn,villa,2016,nothing,nothing,nothing,nothing,738,37
+416,Faaborg-Midtfyn,villa,2015,nothing,nothing,nothing,nothing,650,33
+417,Faaborg-Midtfyn,villa,2014,nothing,nothing,nothing,nothing,579,29
+418,Faaborg-Midtfyn,villa,2013,nothing,nothing,nothing,nothing,518,26
+419,Faaborg-Midtfyn,condo,nothing,nothing,nothing,nothing,nothing,563,29
+420,Faaborg-Midtfyn,terraced house,nothing,nothing,nothing,nothing,nothing,896,45
+421,Fredericia,villa,nothing,nothing,nothing,nothing,nothing,7975,399
+422,Fredericia,condo,nothing,nothing,nothing,nothing,nothing,1950,98
+423,Fredericia,terraced house,nothing,nothing,nothing,nothing,nothing,1109,56
+424,Greve,villa,nothing,nothing,nothing,nothing,nothing,7573,379
+425,Greve,condo,nothing,nothing,nothing,nothing,nothing,450,23
+426,Greve,terraced house,nothing,nothing,nothing,nothing,nothing,2299,115
+427,Ballerup,villa,nothing,nothing,nothing,nothing,nothing,4620,231
+428,Ballerup,condo,nothing,nothing,nothing,nothing,nothing,698,35
+429,Ballerup,terraced house,nothing,nothing,nothing,nothing,nothing,879,44
+430,Varde,villa,2023,nothing,nothing,nothing,nothing,492,25
+431,Varde,villa,2022,nothing,nothing,nothing,nothing,822,42
+432,Varde,villa,2021,nothing,nothing,nothing,nothing,961,49
+433,Varde,villa,2020,nothing,nothing,nothing,nothing,925,47
+434,Varde,villa,2019,nothing,nothing,nothing,nothing,770,39
+435,Varde,villa,2018,nothing,nothing,nothing,nothing,779,39
+436,Varde,villa,2017,nothing,nothing,nothing,nothing,765,39
+437,Varde,villa,2016,nothing,nothing,nothing,nothing,685,35
+438,Varde,villa,2015,nothing,nothing,nothing,nothing,648,33
+439,Varde,villa,2014,nothing,nothing,nothing,nothing,586,30
+440,Varde,villa,2013,nothing,nothing,nothing,nothing,535,27
+441,Varde,condo,nothing,nothing,nothing,nothing,nothing,690,35
+442,Varde,terraced house,nothing,nothing,nothing,nothing,nothing,768,39
+443,Favrskov,villa,2023,nothing,nothing,nothing,nothing,428,22
+444,Favrskov,villa,2022,nothing,nothing,nothing,nothing,682,35
+445,Favrskov,villa,2021,nothing,nothing,nothing,nothing,1006,51
+446,Favrskov,villa,2020,nothing,nothing,nothing,nothing,921,47
+447,Favrskov,villa,2019,nothing,nothing,nothing,nothing,764,39
+448,Favrskov,villa,2018,nothing,nothing,nothing,nothing,762,39
+449,Favrskov,villa,2017,nothing,nothing,nothing,nothing,726,37
+450,Favrskov,villa,2016,nothing,nothing,nothing,nothing,650,33
+451,Favrskov,villa,2015,nothing,nothing,nothing,nothing,619,31
+452,Favrskov,villa,2014,nothing,nothing,nothing,nothing,571,29
+453,Favrskov,villa,2013,nothing,nothing,nothing,nothing,540,27
+454,Favrskov,condo,nothing,nothing,nothing,nothing,nothing,510,26
+455,Favrskov,terraced house,nothing,nothing,nothing,nothing,nothing,771,39
+456,Kalundborg,villa,2023,nothing,nothing,nothing,nothing,497,25
+457,Kalundborg,villa,2022,nothing,nothing,nothing,nothing,743,38
+458,Kalundborg,villa,2021,nothing,nothing,nothing,nothing,1011,51
+459,Kalundborg,villa,2020,nothing,nothing,nothing,nothing,801,41
+460,Kalundborg,villa,2019,nothing,nothing,nothing,nothing,731,37
+461,Kalundborg,villa,2018,nothing,nothing,nothing,nothing,640,32
+462,Kalundborg,villa,2017,nothing,nothing,nothing,nothing,625,32
+463,Kalundborg,villa,2016,nothing,nothing,nothing,nothing,624,32
+464,Kalundborg,villa,2015,nothing,nothing,nothing,nothing,540,27
+465,Kalundborg,villa,2014,nothing,nothing,nothing,nothing,471,24
+466,Kalundborg,villa,2013,nothing,nothing,nothing,nothing,467,24
+467,Kalundborg,condo,nothing,nothing,nothing,nothing,nothing,789,40
+468,Kalundborg,terraced house,nothing,nothing,nothing,nothing,nothing,831,42
+469,Hedensted,villa,2023,nothing,nothing,nothing,nothing,490,25
+470,Hedensted,villa,2022,nothing,nothing,nothing,nothing,819,41
+471,Hedensted,villa,2021,nothing,nothing,nothing,nothing,1160,58
+472,Hedensted,villa,2020,nothing,nothing,nothing,nothing,953,48
+473,Hedensted,villa,2019,nothing,nothing,nothing,nothing,837,42
+474,Hedensted,villa,2018,nothing,nothing,nothing,nothing,686,35
+475,Hedensted,villa,2017,nothing,nothing,nothing,nothing,705,36
+476,Hedensted,villa,2016,nothing,nothing,nothing,nothing,635,32
+477,Hedensted,villa,2015,nothing,nothing,nothing,nothing,615,31
+478,Hedensted,villa,2014,nothing,nothing,nothing,nothing,504,26
+479,Hedensted,villa,2013,nothing,nothing,nothing,nothing,481,25
+480,Hedensted,condo,nothing,nothing,nothing,nothing,nothing,426,22
+481,Hedensted,terraced house,nothing,nothing,nothing,nothing,nothing,560,28
+482,Frederikssund,villa,nothing,nothing,nothing,nothing,nothing,7471,374
+483,Frederikssund,condo,nothing,nothing,nothing,nothing,nothing,694,35
+484,Frederikssund,terraced house,nothing,nothing,nothing,nothing,nothing,1639,82
+485,Vordingborg,villa,2023,nothing,nothing,nothing,nothing,501,26
+486,Vordingborg,villa,2022,nothing,nothing,nothing,nothing,713,36
+487,Vordingborg,villa,2021,nothing,nothing,nothing,nothing,990,50
+488,Vordingborg,villa,2020,nothing,nothing,nothing,nothing,866,44
+489,Vordingborg,villa,2019,nothing,nothing,nothing,nothing,702,36
+490,Vordingborg,villa,2018,nothing,nothing,nothing,nothing,720,36
+491,Vordingborg,villa,2017,nothing,nothing,nothing,nothing,684,35
+492,Vordingborg,villa,2016,nothing,nothing,nothing,nothing,605,31
+493,Vordingborg,villa,2015,nothing,nothing,nothing,nothing,570,29
+494,Vordingborg,villa,2014,nothing,nothing,nothing,nothing,539,27
+495,Vordingborg,villa,2013,nothing,nothing,nothing,nothing,488,25
+496,Vordingborg,condo,nothing,nothing,nothing,nothing,nothing,909,46
+497,Vordingborg,terraced house,nothing,nothing,nothing,nothing,nothing,694,35
+498,Egedal,villa,nothing,nothing,nothing,nothing,nothing,6766,339
+499,Egedal,condo,nothing,nothing,nothing,nothing,nothing,620,31
+500,Egedal,terraced house,nothing,nothing,nothing,nothing,nothing,2987,150
+501,Skive,villa,2023,nothing,nothing,nothing,nothing,422,22
+502,Skive,villa,2022,nothing,nothing,nothing,nothing,560,28
+503,Skive,villa,2021,nothing,nothing,nothing,nothing,699,35
+504,Skive,villa,2020,nothing,nothing,nothing,nothing,707,36
+505,Skive,villa,2019,nothing,nothing,nothing,nothing,562,29
+506,Skive,villa,2018,nothing,nothing,nothing,nothing,572,29
+507,Skive,villa,2017,nothing,nothing,nothing,nothing,526,27
+508,Skive,villa,2016,nothing,nothing,nothing,nothing,494,25
+509,Skive,villa,2015,nothing,nothing,nothing,nothing,465,24
+510,Skive,villa,2014,nothing,nothing,nothing,nothing,483,25
+511,Skive,villa,2013,nothing,nothing,nothing,nothing,421,22
+512,Skive,condo,nothing,nothing,nothing,nothing,nothing,1116,56
+513,Skive,terraced house,nothing,nothing,nothing,nothing,nothing,311,16
+514,Syddjurs,villa,2023,nothing,nothing,nothing,nothing,378,19
+515,Syddjurs,villa,2022,nothing,nothing,nothing,nothing,687,35
+516,Syddjurs,villa,2021,nothing,nothing,nothing,nothing,919,46
+517,Syddjurs,villa,2020,nothing,nothing,nothing,nothing,882,45
+518,Syddjurs,villa,2019,nothing,nothing,nothing,nothing,703,36
+519,Syddjurs,villa,2018,nothing,nothing,nothing,nothing,730,37
+520,Syddjurs,villa,2017,nothing,nothing,nothing,nothing,688,35
+521,Syddjurs,villa,2016,nothing,nothing,nothing,nothing,582,30
+522,Syddjurs,villa,2015,nothing,nothing,nothing,nothing,546,28
+523,Syddjurs,villa,2014,nothing,nothing,nothing,nothing,478,24
+524,Syddjurs,villa,2013,nothing,nothing,nothing,nothing,475,24
+525,Syddjurs,condo,nothing,nothing,nothing,nothing,nothing,572,29
+526,Syddjurs,terraced house,nothing,nothing,nothing,nothing,nothing,760,38
+527,Thisted,villa,2023,nothing,nothing,nothing,nothing,478,24
+528,Thisted,villa,2022,nothing,nothing,nothing,nothing,733,37
+529,Thisted,villa,2021,nothing,nothing,nothing,nothing,914,46
+530,Thisted,villa,2020,nothing,nothing,nothing,nothing,794,40
+531,Thisted,villa,2019,nothing,nothing,nothing,nothing,734,37
+532,Thisted,villa,2018,nothing,nothing,nothing,nothing,660,33
+533,Thisted,villa,2017,nothing,nothing,nothing,nothing,745,38
+534,Thisted,villa,2016,nothing,nothing,nothing,nothing,624,32
+535,Thisted,villa,2015,nothing,nothing,nothing,nothing,569,29
+536,Thisted,villa,2014,nothing,nothing,nothing,nothing,536,27
+537,Thisted,villa,2013,nothing,nothing,nothing,nothing,522,27
+538,Thisted,condo,nothing,nothing,nothing,nothing,nothing,942,48
+539,Thisted,terraced house,nothing,nothing,nothing,nothing,nothing,734,37
+540,Tårnby,villa,nothing,nothing,nothing,nothing,nothing,5092,255
+541,Tårnby,condo,nothing,nothing,nothing,nothing,nothing,1468,74
+542,Tårnby,terraced house,nothing,nothing,nothing,nothing,nothing,1078,54
+543,Vejen,villa,nothing,nothing,nothing,nothing,nothing,9797,490
+544,Vejen,condo,nothing,nothing,nothing,nothing,nothing,630,32
+545,Vejen,terraced house,nothing,nothing,nothing,nothing,nothing,569,29
+546,Rødovre,villa,nothing,nothing,nothing,nothing,nothing,3073,154
+547,Rødovre,condo,nothing,nothing,nothing,nothing,nothing,1368,69
+548,Rødovre,terraced house,nothing,nothing,nothing,nothing,nothing,1277,64
+549,Ikast-Brande,villa,nothing,nothing,nothing,nothing,nothing,8673,434
+550,Ikast-Brande,condo,nothing,nothing,nothing,nothing,nothing,732,37
+551,Ikast-Brande,terraced house,nothing,nothing,nothing,nothing,nothing,459,23
+552,Furesø,villa,nothing,nothing,nothing,nothing,nothing,4669,234
+553,Furesø,condo,nothing,nothing,nothing,nothing,nothing,711,36
+554,Furesø,terraced house,nothing,nothing,nothing,nothing,nothing,2725,137
+555,Mariagerfjord,villa,nothing,nothing,nothing,nothing,nothing,9663,484
+556,Mariagerfjord,condo,nothing,nothing,nothing,nothing,nothing,733,37
+557,Mariagerfjord,terraced house,nothing,nothing,nothing,nothing,nothing,628,32
+558,Fredensborg,villa,nothing,nothing,nothing,nothing,nothing,4704,236
+559,Fredensborg,condo,nothing,nothing,nothing,nothing,nothing,1719,86
+560,Fredensborg,terraced house,nothing,nothing,nothing,nothing,nothing,2521,127
+561,Gribskov,villa,nothing,nothing,nothing,nothing,nothing,8141,408
+562,Gribskov,condo,nothing,nothing,nothing,nothing,nothing,433,22
+563,Gribskov,terraced house,nothing,nothing,nothing,nothing,nothing,700,35
+564,Assens,villa,nothing,nothing,nothing,nothing,nothing,9536,477
+565,Assens,condo,nothing,nothing,nothing,nothing,nothing,324,17
+566,Assens,terraced house,nothing,nothing,nothing,nothing,nothing,898,45
+567,Middelfart,villa,nothing,nothing,nothing,nothing,nothing,8311,416
+568,Middelfart,condo,nothing,nothing,nothing,nothing,nothing,471,24
+569,Middelfart,terraced house,nothing,nothing,nothing,nothing,nothing,1016,51
+570,Lolland,villa,2023,nothing,nothing,nothing,nothing,448,23
+571,Lolland,villa,2022,nothing,nothing,nothing,nothing,731,37
+572,Lolland,villa,2021,nothing,nothing,nothing,nothing,911,46
+573,Lolland,villa,2020,nothing,nothing,nothing,nothing,710,36
+574,Lolland,villa,2019,nothing,nothing,nothing,nothing,616,31
+575,Lolland,villa,2018,nothing,nothing,nothing,nothing,566,29
+576,Lolland,villa,2017,nothing,nothing,nothing,nothing,551,28
+577,Lolland,villa,2016,nothing,nothing,nothing,nothing,533,27
+578,Lolland,villa,2015,nothing,nothing,nothing,nothing,467,24
+579,Lolland,villa,2014,nothing,nothing,nothing,nothing,466,24
+580,Lolland,villa,2013,nothing,nothing,nothing,nothing,473,24
+581,Lolland,condo,nothing,nothing,nothing,nothing,nothing,711,36
+582,Lolland,terraced house,nothing,nothing,nothing,nothing,nothing,1049,53
+583,Bornholm,villa,nothing,nothing,nothing,nothing,nothing,8775,439
+584,Bornholm,condo,nothing,nothing,nothing,nothing,nothing,319,16
+585,Bornholm,terraced house,nothing,nothing,nothing,nothing,nothing,2702,136
+586,Jammerbugt,villa,2023,nothing,nothing,nothing,nothing,420,21
+587,Jammerbugt,villa,2022,nothing,nothing,nothing,nothing,616,31
+588,Jammerbugt,villa,2021,nothing,nothing,nothing,nothing,814,41
+589,Jammerbugt,villa,2020,nothing,nothing,nothing,nothing,731,37
+590,Jammerbugt,villa,2019,nothing,nothing,nothing,nothing,675,34
+591,Jammerbugt,villa,2018,nothing,nothing,nothing,nothing,615,31
+592,Jammerbugt,villa,2017,nothing,nothing,nothing,nothing,670,34
+593,Jammerbugt,villa,2016,nothing,nothing,nothing,nothing,613,31
+594,Jammerbugt,villa,2015,nothing,nothing,nothing,nothing,580,29
+595,Jammerbugt,villa,2014,nothing,nothing,nothing,nothing,535,27
+596,Jammerbugt,villa,2013,nothing,nothing,nothing,nothing,469,24
+597,Jammerbugt,condo,nothing,nothing,nothing,nothing,nothing,807,41
+598,Jammerbugt,terraced house,nothing,nothing,nothing,nothing,nothing,736,37
+599,Faxe,villa,nothing,nothing,nothing,nothing,nothing,7710,386
+600,Faxe,condo,nothing,nothing,nothing,nothing,nothing,389,20
+601,Faxe,terraced house,nothing,nothing,nothing,nothing,nothing,830,42
+602,Brøndby,villa,nothing,nothing,nothing,nothing,nothing,2489,125
+603,Brøndby,condo,nothing,nothing,nothing,nothing,nothing,262,14
+604,Brøndby,terraced house,nothing,nothing,nothing,nothing,nothing,921,47
+605,Norddjurs,villa,nothing,nothing,nothing,nothing,nothing,8446,423
+606,Norddjurs,condo,nothing,nothing,nothing,nothing,nothing,842,43
+607,Norddjurs,terraced house,nothing,nothing,nothing,nothing,nothing,537,27
+608,Tønder,villa,nothing,nothing,nothing,nothing,nothing,9052,453
+609,Tønder,condo,nothing,nothing,nothing,nothing,nothing,838,42
+610,Tønder,terraced house,nothing,nothing,nothing,nothing,nothing,422,22
+611,Brønderslev,villa,nothing,nothing,nothing,nothing,nothing,8892,445
+612,Brønderslev,condo,nothing,nothing,nothing,nothing,nothing,535,27
+613,Brønderslev,terraced house,nothing,nothing,nothing,nothing,nothing,318,16
+614,Vesthimmerlands,villa,nothing,nothing,nothing,nothing,nothing,9177,459
+615,Vesthimmerlands,condo,nothing,nothing,nothing,nothing,nothing,713,36
+616,Vesthimmerlands,terraced house,nothing,nothing,nothing,nothing,nothing,475,24
+617,Ringsted,villa,nothing,nothing,nothing,nothing,nothing,5859,293
+618,Ringsted,condo,nothing,nothing,nothing,nothing,nothing,828,42
+619,Ringsted,terraced house,nothing,nothing,nothing,nothing,nothing,789,40
+620,Odsherred,villa,nothing,nothing,nothing,nothing,nothing,7181,360
+621,Odsherred,condo,nothing,nothing,nothing,nothing,nothing,412,21
+622,Odsherred,terraced house,nothing,nothing,nothing,nothing,nothing,603,31
+623,Nyborg,villa,nothing,nothing,nothing,nothing,nothing,5958,298
+624,Nyborg,condo,nothing,nothing,nothing,nothing,nothing,886,45
+625,Nyborg,terraced house,nothing,nothing,nothing,nothing,nothing,707,36
+626,Halsnæs,villa,nothing,nothing,nothing,nothing,nothing,6018,301
+627,Halsnæs,condo,nothing,nothing,nothing,nothing,nothing,477,24
+628,Halsnæs,terraced house,nothing,nothing,nothing,nothing,nothing,391,20
+629,Rebild,villa,nothing,nothing,nothing,nothing,nothing,7490,375
+630,Rebild,condo,nothing,nothing,nothing,nothing,nothing,251,13
+631,Rebild,terraced house,nothing,nothing,nothing,nothing,nothing,402,21
+632,Sorø,villa,nothing,nothing,nothing,nothing,nothing,6474,324
+633,Sorø,condo,nothing,nothing,nothing,nothing,nothing,440,22
+634,Sorø,terraced house,nothing,nothing,nothing,nothing,nothing,442,23
+635,Nordfyns,villa,nothing,nothing,nothing,nothing,nothing,7103,356
+636,Nordfyns,condo,nothing,nothing,nothing,nothing,nothing,317,16
+637,Nordfyns,terraced house,nothing,nothing,nothing,nothing,nothing,493,25
+638,Herlev,villa,nothing,nothing,nothing,nothing,nothing,2142,108
+639,Herlev,condo,nothing,nothing,nothing,nothing,nothing,296,15
+640,Herlev,terraced house,nothing,nothing,nothing,nothing,nothing,798,40
+641,Lejre,villa,nothing,nothing,nothing,nothing,nothing,5851,293
+642,Lejre,condo,nothing,nothing,nothing,nothing,nothing,135,7
+643,Lejre,terraced house,nothing,nothing,nothing,nothing,nothing,626,32
+644,Albertslund,villa,nothing,nothing,nothing,nothing,nothing,1085,55
+645,Albertslund,condo,nothing,nothing,nothing,nothing,nothing,358,18
+646,Albertslund,terraced house,nothing,nothing,nothing,nothing,nothing,1592,80
+647,Billund,villa,nothing,nothing,nothing,nothing,nothing,5771,289
+648,Billund,condo,nothing,nothing,nothing,nothing,nothing,278,14
+649,Billund,terraced house,nothing,nothing,nothing,nothing,nothing,380,19
+650,Allerød,villa,nothing,nothing,nothing,nothing,nothing,3968,199
+651,Allerød,condo,nothing,nothing,nothing,nothing,nothing,307,16
+652,Allerød,terraced house,nothing,nothing,nothing,nothing,nothing,1519,76
+653,Hørsholm,villa,nothing,nothing,nothing,nothing,nothing,3215,161
+654,Hørsholm,condo,nothing,nothing,nothing,nothing,nothing,1021,52
+655,Hørsholm,terraced house,nothing,nothing,nothing,nothing,nothing,1564,79
+656,Solrød,villa,nothing,nothing,nothing,nothing,nothing,3813,191
+657,Solrød,condo,nothing,nothing,nothing,nothing,nothing,521,27
+658,Solrød,terraced house,nothing,nothing,nothing,nothing,nothing,1275,64
+659,Kerteminde,villa,nothing,nothing,nothing,nothing,nothing,4533,227
+660,Kerteminde,condo,nothing,nothing,nothing,nothing,nothing,105,6
+661,Kerteminde,terraced house,nothing,nothing,nothing,nothing,nothing,606,31
+662,Stevns,villa,nothing,nothing,nothing,nothing,nothing,5277,264
+663,Stevns,condo,nothing,nothing,nothing,nothing,nothing,179,9
+664,Stevns,terraced house,nothing,nothing,nothing,nothing,nothing,606,31
+665,Glostrup,villa,nothing,nothing,nothing,nothing,nothing,1902,96
+666,Glostrup,condo,nothing,nothing,nothing,nothing,nothing,944,48
+667,Glostrup,terraced house,nothing,nothing,nothing,nothing,nothing,474,24
+668,Odder,villa,nothing,nothing,nothing,nothing,nothing,4835,242
+669,Odder,condo,nothing,nothing,nothing,nothing,nothing,462,24
+670,Odder,terraced house,nothing,nothing,nothing,nothing,nothing,405,21
+671,Ishøj,villa,nothing,nothing,nothing,nothing,nothing,1320,66
+672,Ishøj,condo,nothing,nothing,nothing,nothing,nothing,1041,53
+673,Ishøj,terraced house,nothing,nothing,nothing,nothing,nothing,1038,52
+674,Struer,villa,nothing,nothing,nothing,nothing,nothing,4697,235
+675,Struer,condo,nothing,nothing,nothing,nothing,nothing,655,33
+676,Struer,terraced house,nothing,nothing,nothing,nothing,nothing,283,15
+677,Morsø,villa,nothing,nothing,nothing,nothing,nothing,5056,253
+678,Morsø,condo,nothing,nothing,nothing,nothing,nothing,197,10
+679,Morsø,terraced house,nothing,nothing,nothing,nothing,nothing,566,29
+680,Lemvig,villa,nothing,nothing,nothing,nothing,nothing,5109,256
+681,Lemvig,condo,nothing,nothing,nothing,nothing,nothing,449,23
+682,Lemvig,terraced house,nothing,nothing,nothing,nothing,nothing,252,13
+683,Vallensbæk,villa,nothing,nothing,nothing,nothing,nothing,1464,74
+684,Vallensbæk,condo,nothing,nothing,nothing,nothing,nothing,1072,54
+685,Vallensbæk,terraced house,nothing,nothing,nothing,nothing,nothing,1171,59
+686,Dragør,villa,nothing,nothing,nothing,nothing,nothing,2325,117
+687,Dragør,condo,nothing,nothing,nothing,nothing,nothing,367,19
+688,Dragør,terraced house,nothing,nothing,nothing,nothing,nothing,828,42
+689,Langeland,villa,nothing,nothing,nothing,nothing,nothing,4258,213
+690,Langeland,condo,nothing,nothing,nothing,nothing,nothing,168,9
+691,Langeland,terraced house,nothing,nothing,nothing,nothing,nothing,422,22
+692,Ærø,villa,nothing,nothing,nothing,nothing,nothing,2463,124
+693,Ærø,condo,nothing,nothing,nothing,nothing,nothing,132,7
+694,Ærø,terraced house,nothing,nothing,nothing,nothing,nothing,245,13
+695,Samsø,villa,nothing,nothing,nothing,nothing,nothing,1594,80
+696,Samsø,condo,nothing,nothing,nothing,nothing,nothing,89,5
+697,Samsø,terraced house,nothing,nothing,nothing,nothing,nothing,86,5
+698,Fanø,villa,nothing,nothing,nothing,nothing,nothing,680,34
+699,Fanø,condo,nothing,nothing,nothing,nothing,nothing,36,2
+700,Fanø,terraced house,nothing,nothing,nothing,nothing,nothing,238,12
+701,Læsø,villa,nothing,nothing,nothing,nothing,nothing,760,38
+702,Læsø,condo,nothing,nothing,nothing,nothing,nothing,31,2
+703,Læsø,terraced house,nothing,nothing,nothing,nothing,nothing,21,2
