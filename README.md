@@ -11,8 +11,13 @@ As an example, say you search for historical data on sold properties in Copenhag
 
 The parameters I use are based on the filtering categories provided by the site itself. We construct the parameters across different municipalities, year of sale, property types, maximum price, minimum price, maximum property size and minimum property size. Then I save that info in a simple csv format called "Totalhits_parameters_for_request.csv". The script to construct these parameters simply runs through each parameter until we reach the 10.000 mark. Once that is reached then save the set parameters to the csv file. 
 
-Finally I run the bot using the parameters in the file Totalhits_parameters_for_request.csv by constructing a request to the "hidden" API using the parameters and loop over each page and gather the JSON files. 
+Finally, I ran the bot using the parameters specified in the Totalhits_parameters_for_request.csv file. By constructing a request to the 'hidden' API and looping over each page, the bot gathered the JSON files containing the property data.
 
-## Example Data
+## Result : 
+With this script I was able to gather :
+* 12.303.063 million property tranactions (sale prices)
+* Property characteristics of 1.425.651 million unique properties
+
+### Example Data
 
 You can view the example data of the final results in the CSV file located in the example_data folder.
