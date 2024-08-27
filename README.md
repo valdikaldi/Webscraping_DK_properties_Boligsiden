@@ -1,2 +1,5 @@
 # Webscraping_DK_properties_Boligsiden
-Web scraping project - Gather additional property data on the danish housing market such as transaction prices and property characteristics from the website Web scraping project - Gather property data on the danish housing market such as transaction prices and property characteristics from the website www.boligsiden.dk
+
+In this project, I developed a web scraping bot that systematically scans the entire [www.](https://www.boligsiden.dk/) website, gathering detailed data on each property listed for the Danish housing market. 
+
+You can view the example data of the final results in the CSV file located in the example_data folder.
