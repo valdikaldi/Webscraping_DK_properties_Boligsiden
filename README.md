@@ -19,7 +19,7 @@ Finally, I ran the bot using the parameters specified in the Totalhits_parameter
 
 ## Result : 
 With this script I was able to gather :
-* 12.303.063 million property tranactions (sale prices)
+* 4.303.063 million property tranactions (sale prices)
 * Property characteristics of 1.425.651 million unique properties
 
 ### Example Data
