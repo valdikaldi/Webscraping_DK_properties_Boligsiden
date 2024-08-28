@@ -22,6 +22,6 @@ With this script I was able to gather :
 * 4.303.063 million property tranactions (sale prices)
 * Property characteristics of 1.425.651 million unique properties
 
-### Example Data
+## Example Data
 
 You can view the example of the tabular data from the final result in the CSV file located in the example_data folder.
