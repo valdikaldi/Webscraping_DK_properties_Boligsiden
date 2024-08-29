@@ -2,10 +2,10 @@
 
 ![Boligsiden Front page](frontpage.PNG)
 
-## Description : 
+## <img src="markdown_icons/info_icon.svg" alt="Info Icon" width="50" height="25"> Description : 
 In this project, I developed a web scraping bot that systematically scans the entire [www.boligsiden.dk](https://www.boligsiden.dk/), gathering detailed data on property characteristics and historic transaction prices for the Danish housing market. 
 
-## Overview of the script:
+## <img src="markdown_icons/code.svg" alt="Info Icon" width="50" height="25"> Overview of the script:
 The website offers a "hidden" API - making it easy to extract the data. However, the site only offers 500 pages where each pages gives up 20 properties. In addition, they will only allow you to get data on a yearly period of 6 year basis. 
 
 ![The "hidden" API](hidden_api.PNG)
@@ -17,7 +17,7 @@ The parameters I use are based on the filtering categories provided by the site 
 
 Finally, I ran the bot using the parameters specified in the Totalhits_parameters_for_request.csv file. By constructing a request to the 'hidden' API and looping over each page, the bot gathered the JSON files containing the property data.
 
-## Result : 
+## <img src="markdown_icons/result.svg" alt="Info Icon" width="50" height="25"> Result : 
 With this script I was able to gather :
 * 4.303.063 million property tranactions (sale prices)
 * Property characteristics of 1.425.651 million unique properties
