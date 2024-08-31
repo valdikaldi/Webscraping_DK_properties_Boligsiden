@@ -6,7 +6,7 @@
 In this project, I developed a web scraping bot that systematically scans the entire [www.boligsiden.dk](https://www.boligsiden.dk/), gathering detailed data on property characteristics and historic transaction prices for the Danish housing market. 
 
 ## <img src="markdown_icons/code.svg" alt="Info Icon" width="50" height="25"> Overview of the script:
-The website offers a "hidden" API - making it easy to extract the data. However, the site only offers 500 pages where each pages gives up 20 properties. In addition, they will only allow you to get data on a yearly period of 6 year basis. 
+The website offers a "hidden" API - making it easy to extract the data. However, the site only offers 500 pages where each page gives up 20 properties. In addition, they will only allow you to get data on a yearly period of 6 year basis. 
 
 ![The "hidden" API](hidden_api.PNG)
 
